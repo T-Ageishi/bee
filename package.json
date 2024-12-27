@@ -6,6 +6,7 @@
 		"prepare": "husky",
 		"lint": "next lint",
 		"test": "vitest",
+		"test-once": "vitest run",
 		"dev": "next dev -p 3030",
 		"build": "next build",
 		"start": "next start"
